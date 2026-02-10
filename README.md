@@ -11,3 +11,5 @@ The project should be completed in the form of two .sql files (with comments!).
 In one file, you should create the database, i.e., tables, views, etc., 
 and in the second, present its contents, i.e., write several sample queries 
 that utilize the solutions you have created.
+
+!(bike_shop.png)
