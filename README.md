@@ -1,5 +1,5 @@
 # sql-database-project
-Final SQL Project - Shop
+## Final SQL Project - Shop
 
 ### Project Requirements:
 * You must create a database and populate it with records.
