@@ -1,6 +1,8 @@
 # sql-database-project
 ## Final SQL Project - Shop
 
+Authors: Daria Kusz, Emilia Mrosek
+
 ### Project Requirements:
 * You must create a database and populate it with records.
 * The database must contain several tables (>= 3) with properly defined primary keys, foreign keys, constraints, etc.
